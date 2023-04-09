@@ -17,4 +17,3 @@ td 로 테이블의 열을 만들 수 있다
 width로 폭을 bgcolor로
 
 placeholder로 입력창에 대한 힌트를 사용자에게 줄 수 있다
-label
