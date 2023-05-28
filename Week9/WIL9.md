@@ -92,3 +92,4 @@ for in --> for of (순서 추가)
    delete 연산자를 사용
 3. 프로퍼티
    - array.length : 배열의 길이를 나타냄
+                    length 인위적으로 변환이 가능하다
